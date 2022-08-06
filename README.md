@@ -4,7 +4,7 @@
 
 Vless & Vmess: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/sveyond/XrayH)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/sveyond/XrayH)
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
